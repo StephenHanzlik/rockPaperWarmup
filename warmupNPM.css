@@ -1,0 +1,13 @@
+.head{
+  background-color: red;
+  align-self: flex-start;
+}
+.right{
+  align-self: flex-end;
+}
+.headPar{
+  display: flex;
+  flex-direction: row;
+  border: 2px solid black;
+  justify-content: flex-end;
+}
